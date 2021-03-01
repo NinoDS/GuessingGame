@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JH\\RiderProjects\\GuessingGame\\GuessingGame\\GuessingGame.csproj": {}
+    "C:\\Users\\JH\\Source\\Repos\\GuessingGame2\\GuessingGame\\GuessingGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JH\\RiderProjects\\GuessingGame\\GuessingGame\\GuessingGame.csproj": {
+    "C:\\Users\\JH\\Source\\Repos\\GuessingGame2\\GuessingGame\\GuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JH\\RiderProjects\\GuessingGame\\GuessingGame\\GuessingGame.csproj",
+        "projectUniqueName": "C:\\Users\\JH\\Source\\Repos\\GuessingGame2\\GuessingGame\\GuessingGame.csproj",
         "projectName": "GuessingGame",
-        "projectPath": "C:\\Users\\JH\\RiderProjects\\GuessingGame\\GuessingGame\\GuessingGame.csproj",
+        "projectPath": "C:\\Users\\JH\\Source\\Repos\\GuessingGame2\\GuessingGame\\GuessingGame.csproj",
         "packagesPath": "C:\\Users\\JH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JH\\RiderProjects\\GuessingGame\\GuessingGame\\obj\\",
+        "outputPath": "C:\\Users\\JH\\Source\\Repos\\GuessingGame2\\GuessingGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JH\\AppData\\Roaming\\NuGet\\NuGet.Config",
